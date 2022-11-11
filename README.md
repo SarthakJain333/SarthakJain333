@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sarthak Jain
-- 👀 I’m interested in Deep Learning 
-- 🌱 I’m currently learning Computer Vision, NLP
+- 👋 Hi,Sarthak Jain here , a neural network with some emotions.
+- 👀 I’m interested in Deep Learning.
+- 🌱 I’m currently learning Computer Vision, NaturalLanguageProcessing.
 - 📫 How to reach me sathak.bhu21@gmail.com
 
 <!---
